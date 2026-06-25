@@ -2,15 +2,21 @@
 
 This repository contains the analysis code used to compute emotion dynamic indices and conduct subsequent statistical analyses.
 
-## Software
+## Software Requirements
 
-Markov transition matrices, transition probabilities, and PageRank indices were computed in MATLAB R2022a (MathWorks, Natick, MA, USA).
+The analyses were conducted using the following software:
 
-Subsequent statistical analyses were conducted in Python 3.12 using SciPy, statsmodels, and custom Python scripts.
+* **MATLAB R2022a** (MathWorks, Natick, MA, USA)
+* **Python 3.12**
+* Python packages:
+
+  * SciPy
+  * statsmodels
+  * Custom Python scripts
 
 ## MATLAB Analysis
 
-The MATLAB scripts were used to compute individual-level Markov chain indices based on ecological momentary assessment (EMA) data, including:
+MATLAB scripts were used to compute individual-level Markov chain indices based on ecological momentary assessment (EMA) data, including:
 
 * Markov transition matrices
 * Transition probabilities
@@ -19,8 +25,12 @@ The MATLAB scripts were used to compute individual-level Markov chain indices ba
 
 ## Python Analysis
 
-The Python scripts were used for subsequent statistical analyses, including correlation analyses, multiple-comparison correction, and sensitivity analyses.
+Python scripts were used for subsequent statistical analyses, including:
+
+* Correlation analyses
+* Multiple-comparison correction
+* Sensitivity analyses
 
 ## Data Availability
 
-The raw EMA data are not publicly available. Researchers who wish to access the raw EMA data may contact the corresponding author upon reasonable request.
+The raw EMA data are not publicly available due to privacy and ethical considerations. Researchers who wish to access the raw EMA data may contact the corresponding author upon reasonable request.
