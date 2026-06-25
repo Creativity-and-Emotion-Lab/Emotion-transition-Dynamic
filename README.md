@@ -23,4 +23,4 @@ The Python scripts were used for subsequent statistical analyses, including corr
 
 ## Data Availability
 
-The raw EMA data and image data are not publicly available. Researchers who wish to access these data may contact the corresponding author upon reasonable request.
+The raw image data are not publicly available. Researchers who wish to access these data may contact the corresponding author upon reasonable request.
